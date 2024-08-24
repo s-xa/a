@@ -27,4 +27,4 @@ Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTI
 
 **Licence:**
 
-GNU 3.0
+GNU General Public License v3.0
